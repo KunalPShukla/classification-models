@@ -15,4 +15,4 @@ In addition to the models, **Grid Search Cross-Validation (GridSearchCV)** is us
 
 ## Conclusion
 
-The notebook evaluates each classification model (Logistic Regression, Decision Trees, Random Forest, and Naive Bayes) using performance metrics like **accuracy**, **precision**, **recall**, and **F1 score**. By applying **Grid Search CV**, the best hyperparameters are identified for each model, ensuring optimal performance. The results show that ensemble methods like **Random Forest** tend to perform better due to their ability to handle complex relationships in the data and reduce overfitting. However,...
+The notebook evaluates each classification model (Logistic Regression, Decision Trees, Random Forest, and Naive Bayes) using performance metrics like **accuracy**, **precision**, **recall**, and **F1 score**. By applying **Grid Search CV**, the best hyperparameters are identified for each model, ensuring optimal performance. The results show that ensemble methods like **Random Forest** tend to perform better due to their ability to handle complex relationships in the data and reduce overfitting.
